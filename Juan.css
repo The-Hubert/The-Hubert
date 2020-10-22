@@ -48,3 +48,7 @@ a {
 	width: 100px;
 	height: 100px;
 }
+
+.comicSans {
+	font-family:"Comic Sans MS", "Comic Sans";
+}
