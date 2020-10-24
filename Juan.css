@@ -57,3 +57,9 @@ a {
 	width: 1000px;
 	height: 200px;
 }
+
+/* loqo ratio is 16:5 */
+.loqo {
+	width: 320px;
+	height: 100px;
+}	
