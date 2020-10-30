@@ -68,3 +68,23 @@ a {
 	width: 300px;
 	height: 300px;
 }
+
+/* if you touch this you are automatically haram because this is for hubert clicker 
+so dont touch */
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.centerlower {
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
