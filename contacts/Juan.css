@@ -1,0 +1,90 @@
+h1 {
+	font-size:50px;
+	font-weight:bold;
+	font-style:italic;
+	color:#ffffff;
+}
+
+h2 {
+	font-size:30px;
+}
+
+body {
+	font-family:helvetica;
+	color:#ffffff;
+	background-color:#313131;
+}
+/*<!-- otuzbir colour   ↑↑↑↑↑↑ -->*/
+
+table ,th, td {
+	border: 2px white;
+	color:#ffffff;
+}
+
+a {
+	color:#ffffff;
+	font-weight:bold;
+	font-style:italic;
+}
+
+/* Classes */
+.bababooey {
+	width:50px ;
+	height:126px ;
+}
+/*Fa Fa FOOi*/
+
+.det {
+	font-style: italic;
+}
+
+.limaqe {
+	width: 30px;
+	height: 30px;
+	
+}
+
+.meon {
+	width: 100px;
+	height: 100px;
+}
+
+.comicSans {
+	font-family: Comic Sans MS, Comic Sans;
+}
+
+.wide {
+	width: 1000px;
+	height: 200px;
+}
+
+/* loqo ratio is 16:5 */
+.loqo {
+	width: 320px;
+	height: 100px;
+}
+
+.tres {
+	width: 300px;
+	height: 300px;
+}
+
+/* if you touch this you are automatically haram because this is for hubert clicker 
+so dont touch */
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.centerlower {
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
