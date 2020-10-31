@@ -1,1 +1,0 @@
-# the contacto of tha team
