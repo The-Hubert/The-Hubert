@@ -16,9 +16,12 @@ body {
 }
 /*<!-- otuzbir colour   ↑↑↑↑↑↑ -->*/
 
-table ,th, td {
-	border: 2px white;
-	color:#ffffff;
+table, th  {
+    border: 1px solid white;
+  }
+
+td {
+    text-align: center;
 }
 
 a {
@@ -87,4 +90,23 @@ so dont touch */
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
+}
+
+/* Centreo Classé for soundbordo*/
+
+.centreo-image-logo {
+    width: 320px;
+    height: 100px;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.centreo-texto {
+    text-align: center;
+}
+
+.centreo-table {
+    margin-left: auto;
+    margin-right: auto;
 }
