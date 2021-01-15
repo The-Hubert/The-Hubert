@@ -23,7 +23,7 @@ function Do() { // Do
 Do.play();
 }
 
-funcion h() { //h sound
+function h() { //h sound
     var h = new Audio("https://thehubert.tk/gamer%20sounds/h.mp3")
 h.play();
 }
