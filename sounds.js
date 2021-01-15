@@ -22,3 +22,8 @@ function Do() { // Do
     var Do = new Audio("https://upload.wikimedia.org/wikipedia/commons/5/53/En-us-do-verb.ogg")
 Do.play();
 }
+
+funcion h() { //h sound
+    var h = new Audio("https://thehubert.tk/gamer%20sounds/h.mp3")
+h.play();
+}
